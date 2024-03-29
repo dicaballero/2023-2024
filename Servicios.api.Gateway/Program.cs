@@ -11,6 +11,7 @@ namespace Servicios.api.Gateway
 {
     public class Program
     {
+
         public static void Main(string[] args)
         {
             CreateHostBuilder(args).Build().Run();
